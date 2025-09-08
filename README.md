@@ -1,3 +1,12 @@
+# Project Overview
+This Pathfinding Visualizer app aims to provide education as to how pathfinding algorithms work and find the shortest path through the use of a node maze visualization.
+
+# Disclaimer
+This app is just a fun tool to help visualize how pathfinding algorithms work. It’s meant for learning and experimentation only. Enjoy!
+
+# References
+Pathfinding Visualizer Tutorial: https://www.youtube.com/watch?v=msttfIHHkak
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
