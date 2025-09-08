@@ -561,10 +561,11 @@ const updateNodesForRender = (
   }
 };
 
+// eslint-disable-next-line no-unused-vars
 const getVisitedNodesInOrder = (
-  visitedNodesInOrderStart,
-  visitedNodesInOrderFinish
-) => {
+    visitedNodesInOrderStart,
+    visitedNodesInOrderFinish
+  ) => {
   let visitedNodesInOrder = [];
   let n = Math.max(
     visitedNodesInOrderStart.length,

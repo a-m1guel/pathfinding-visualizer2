@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
 import "./modal.css";
 import '../pathfindingVisualizer/navbar.css';
 

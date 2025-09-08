@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./navbar.css";
-import App from '../App';
+// import App from '../App';
 const brand = window.innerWidth > 600 ? "Pathfinding Visualizer" : "Pathfinder";
 
 
